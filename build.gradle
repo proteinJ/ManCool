@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.mancool'
 version = '0.0.1-SNAPSHOT'
-description = 'ManCool's Web application for fishing boat booking'
+description = "'ManCool's Web application for fishing boat booking"
 
 java {
 	toolchain {
